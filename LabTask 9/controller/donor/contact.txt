@@ -1,0 +1,5 @@
+<h2>Contact US</h2>
+<p><b>Contact Number: </b>+880-1903846166</p>
+<p><b>Email :</b> fdms@gmail.com</p>
+<p><b>Address :</b> Gulshan Dhaka-1212</p>
+<p><b>Website :</b>https://www.fdms.com</p>
